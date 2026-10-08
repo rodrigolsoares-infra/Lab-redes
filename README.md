@@ -126,6 +126,8 @@ Aguarde a conversão inicial dos estados do Spanning Tree (as portas estabilizar
 
 Abra o terminal de qualquer estação de trabalho (PC) e faça testes de ping ou traceroute para verificar a comunicação entre os Prédios 1 e 2.
 
-[<img src="https://img.shields.io/badge/Download-Topologia_.pkt-blue?style=for-the-badge&logo=cisco" />](topologia-matriz-filial.pkt)
+<a href="topologia-matriz-filial.pkt">
+  <img src="https://img.shields.io/badge/Download-Topologia_.pkt-blue?style=for-the-badge&logo=cisco" alt="Download do Projeto" />
+</a>
 
 
