@@ -2,7 +2,7 @@
 
 Proposta de arquitetura de rede híbrida de alta disponibilidade desenvolvida no **Cisco Packet Tracer**, interligando a Sede e uma Filial por meio de links WAN dedicados, segmentação por VLANs e encaminhamento em Camada 2/3.
 
-![Topologia da Rede](topologia.pg)
+![Topologia da Rede](topologia.png)
 ---
 
 ## 📌 Visão Geral da Topologia
