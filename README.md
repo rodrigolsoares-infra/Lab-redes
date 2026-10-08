@@ -128,4 +128,6 @@ Abra o terminal de qualquer estação de trabalho (PC) e faça testes de ping ou
 
 [📥 Baixar o projeto de topologia (.pkt)](topologia-matriz-filial.pkt)
 
+[<img src="https://img.shields.io/badge/Download-Topologia_.pkt-blue?style=for-the-badge&logo=cisco" />](topologia-matriz-filial.pkt)
+
 
